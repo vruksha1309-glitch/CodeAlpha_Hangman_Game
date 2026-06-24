@@ -14,7 +14,7 @@ A Python-based Hangman Game where players guess letters to reveal a hidden word 
 - Python
 ##hiw to run
 1. Clone the repository:
-   git clone <your-repository-link>
+   git clone https://github.com/vruksha1309-glitch/CodeAlpha_Hangman_Game
 
 2. Navigate to the project folder:
    cd CodeAlpha_Hangman_Game
@@ -23,4 +23,4 @@ A Python-based Hangman Game where players guess letters to reveal a hidden word 
    python hangman.py
 
 ## Author
-Your Name.
+t  vruksha.
