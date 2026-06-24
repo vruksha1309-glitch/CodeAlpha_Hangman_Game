@@ -1,4 +1,5 @@
-import random 
+import random
+ 
 
 words = ["python", "apple", "computer", "school", "hangman"]
 
